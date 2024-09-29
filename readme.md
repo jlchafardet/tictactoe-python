@@ -1,6 +1,7 @@
 # Tic Tac Toe Game
 
-![Tic Tac Toe](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Tic-tac-toe.svg/1200px-Tic-tac-toe.svg.png)
+![Tic Tac Toe](https://upload.wikimedia.org/wikipedia/commons/a/ae/Tic_Tac_Toe.gif)
+
 
 ## Table of Contents
 
