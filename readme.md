@@ -15,7 +15,7 @@
   - [Usage](#usage)
   - [Game Rules](#game-rules)
   - [File Structure](#file-structure)
-    - [1. `tictactoe.py`](#1-tictactowpy)
+    - [1. `tictactoe.py`](#1-tictactoepy)
       - [**Key Components:**](#key-components)
     - [2. `tictactoe_records.json`](#2-tictactoe_recordsjson)
       - [**Structure:**](#structure)
