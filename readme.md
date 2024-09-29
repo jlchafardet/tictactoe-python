@@ -15,7 +15,7 @@
   - [Usage](#usage)
   - [Game Rules](#game-rules)
   - [File Structure](#file-structure)
-    - [1. `tictactow.py`](#1-tictactowpy)
+    - [1. `tictactoe.py`](#1-tictactowpy)
       - [**Key Components:**](#key-components)
     - [2. `tictactoe_records.json`](#2-tictactoe_recordsjson)
       - [**Structure:**](#structure)
@@ -86,7 +86,7 @@
 1. **Run the Game:**
 
    ```bash
-   python tictactow.py
+   python tictactoe.py
    ```
 
 2. **Gameplay:**
@@ -142,13 +142,13 @@
 
 ````
 tictactoe/
-├── tictactow.py
+├── tictactoe.py
 ├── tictactoe_records.json
 ├── README.md
 └── LICENSE
 ````
 
-### 1. `tictactow.py`
+### 1. `tictactoe.py`
 
 The main Python script that runs the Tic Tac Toe game. It handles game logic, user interactions, computer moves, and record-keeping.
 
@@ -345,7 +345,7 @@ Here's a quick example to get you started:
 ### Starting the Game
 
 ```bash
-$ python tictactow.py
+$ python tictactoe.py
 ```
 
 ### Sample Gameplay
